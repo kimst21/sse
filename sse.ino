@@ -5,8 +5,8 @@
 #include <Adafruit_Sensor.h>
 
 // Replace with your network credentials
-const char* ssid = "U+NetE51C";
-const char* password = "DA9969P73#";
+const char* ssid = "";
+const char* password = "";
 
 // Create AsyncWebServer object on port 80
 AsyncWebServer server(80);
